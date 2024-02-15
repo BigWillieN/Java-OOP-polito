@@ -1,0 +1,32 @@
+
+1.  L'ereditarietà tra due classi permette di
+[ ] A1.1 - rimuovere attributi
+[ ] A1.2 - aggiungere attributi
+[ ] A1.3 - rimuovere metodi
+[ ] A1.4 - ridefinire metodi
+[ ] A1.5 - aggiungere metodi
+
+
+2. A cosa serve l'operatore `::`?
+[ ] A2.1 - a definire un'espressione condizionale
+[ ] A2.2 - a definire un'assegnazione inversa
+[ ] A2.3 - a definire parametri generici con un'inferenza di tipo
+[ ] A2.4 - a definire un *method reference*
+[ ] A2.5 - a estendere una classe
+
+
+3. Cosa e' la convalida?
+[ ] A3.1 - Un controllo rispetto al passaggio precedente
+[ ] A3.2 - Un controllo rispetto alle esigenze dell'utente
+[ ] A3.3 - Il superamento dei test di sistema
+[ ] A3.4 - Il rilascio dopo la manutenzione
+[ ] A3.5 - E' un sinonimo di test
+
+4. Cosa contiene la sezione superiore di una classe UML?
+[ ] A4.1 - Nome della classe
+[ ] A4.2 - Implementazione
+[ ] A4.3 - Interfacce
+[ ] A4.4 - Metodi
+[ ] A4.5 - Attributi
+
+Per selezionare una risposta inserire una "X" tra le "[ ]" --> "[X]"

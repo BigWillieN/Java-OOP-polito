@@ -1,0 +1,30 @@
+1. Inheritance between two classes allows
+[ ] A1.1 - removing attributes
+[X] A1.2 - adding attributes
+[ ] A1.3 - removing methods
+[X] A1.4 - redefining methods
+[X] A1.5 - adding methods
+
+
+2. What is the purpose of the operator `::`?
+[ ] A2.1 - define a conditional expression
+[ ] A2.2 - define a reverse assignment
+[ ] A2.3 - define generic parameters using type inference
+[X] A2.4 - define *method reference*
+[ ] A2.5 - extend a class
+
+3. What is validation?
+[ ] A3.1 - Check with respect to the previous step
+[X] A3.2 - Check with respect to user needs
+[ ] A3.3 - Passing system tests
+[ ] A3.4 - Release after maintenance
+[ ] A3.5 - It is a synonym of testing
+
+4. What is included in the top section of a UML class?
+[X] A4.1 - Name of the class
+[ ] A4.2 - Implementation
+[ ] A4.3 - Interface
+[ ] A4.4 - Methods
+[ ] A4.5 - Attributes
+
+To select an answer place a "X" in the "[ ]" --> "[X]"
